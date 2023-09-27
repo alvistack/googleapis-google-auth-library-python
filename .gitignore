@@ -48,3 +48,5 @@ cert_path
 key_path
 env/
 .vscode/
+
+.pybuild/
