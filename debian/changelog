@@ -1,0 +1,5 @@
+python-google-auth (100:2.24.0-1) UNRELEASED; urgency=medium
+
+  * https://github.com/googleapis/google-auth-library-python/releases/tag/v2.24.0
+
+ -- Chau Wan Ying Fifi <wychau6b@pantarei-design.com>  Fri, 01 Dec 2023 16:43:31 +0800
