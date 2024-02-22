@@ -1,0 +1,5 @@
+python-google-auth (100:2.29.0-1) UNRELEASED; urgency=medium
+
+  * https://github.com/googleapis/google-auth-library-python/releases/tag/v2.29.0
+
+ -- Wong Hoi Sing Edison <hswong3i@pantarei-design.com>  Thu, 21 Mar 2024 08:40:55 +0800
