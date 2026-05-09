@@ -1,0 +1,5 @@
+python-google-auth (100:2.52.0-1) UNRELEASED; urgency=medium
+
+  * https://github.com/googleapis/google-cloud-python/releases/tag/google-auth-v2.52.0
+
+ -- Wong Hoi Sing Edison <hswong3i@pantarei-design.com>  Sat, 09 May 2026 17:36:52 +0800
