@@ -1,0 +1,4 @@
+python-google-auth source: file-without-copyright-information
+python-google-auth source: no-debian-changes
+python-google-auth source: source-contains-prebuilt-windows-binary
+python-google-auth source: source-package-encodes-python-version
